@@ -23,6 +23,7 @@ pip3 install bs4
 
 ## How to run this code
 * run the file main.py by `python3 main.py`
-* Input the URL of the user you want to scrape the repo names
+* Enter the username
+* You'll be prompted if you want to store it in a file 
 
 
