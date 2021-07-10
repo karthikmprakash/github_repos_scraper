@@ -1,4 +1,4 @@
-# Github REPO Names of any user
+# Github repo names of any user
 
 ## Introduction:
 
