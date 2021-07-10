@@ -45,11 +45,12 @@ while url != None:
 
 if dont_print != True:	
 	print(repo_names_list)
-	file_flag = input('\n Do you want to save the output in a  file (Y/n) : ')
+	file_flag = input('\nDo you want to save the output in a  file (Y/n) : ')
 	if file_flag.lower() == 'y':
 		with open(f'./OUTPUT/{user_name}.txt','w') as file:
 			for item in repo_names_list:
         			file.write("%s\n" % item)
+		print(f"\nThe exported output is saved as {user_name}.txt in the path \"./OUTPUT/{user_name}.txt\" ")
 	elif file_flag.lower() == 'n':
 		pass
 	else:
