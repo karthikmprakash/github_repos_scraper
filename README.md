@@ -1,5 +1,5 @@
 # Github repo names of any user
-
+A tool to extract names of github repos of any user
 ## Introduction:
 
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites using its HTML structure, In this post, I will explain basic fundaments of web scraping using python and also explore it by a live demonstration with two python libraries Beautifulsoup and requests respectively.
